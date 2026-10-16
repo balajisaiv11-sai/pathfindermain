@@ -1,0 +1,6 @@
+{
+  "name": "Pathfinder India",
+  "description": "Thoughtful, encouraging educational guidance for students in India exploring options after Class 10 and Class 12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
